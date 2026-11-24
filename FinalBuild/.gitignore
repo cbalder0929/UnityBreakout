@@ -1,0 +1,16 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Builds/
+/*.csproj
+/*.sln
+/*.slnx
+/*.log
+!/Packages/
+!/Packages/manifest.json
+!/Packages/packages-lock.json
+
+!/Builds/
+!/Builds/**
